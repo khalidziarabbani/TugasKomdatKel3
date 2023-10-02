@@ -19,30 +19,32 @@ Dengan desain yang mengikuti konsep bahasa Material, KitchenOwl menawarkan tampi
 # Instalasi
 [`^ kembali ke atas ^`](#)
 1. Login ke server menggunakan ssh
+
+   contoh:
    ```
    ssh khalid@20.244.51.50
    ```
    lalu masukan password virtual machine
-2. Docker
+3. Docker
    
    Ubuntu: [Panduan Instalasi Docker pada Ubuntu](https://docs.docker.com/engine/install/ubuntu)
    
-3. Clone repositori KitchenOwl dari GitHub:
+4. Clone repositori KitchenOwl dari GitHub:
    
     ```bash
     git clone https://github.com/TomBursch/kitchenowl.git
     ```
 
-4. Masuk ke direktori KitchenOwl:
+5. Masuk ke direktori KitchenOwl:
 
     ```bash
     cd kitchenowl
     ```
-5. Mengatur port (opsional)
+6. Mengatur port (opsional)
 
    ikuti langkah dokumentasi (docker compose) yang ada pada github KitchenOwl [disini](https://docs.kitchenowl.org/self-hosting/)
 
-6. Jalankan aplikasi menggunakan Docker Compose:
+7. Jalankan aplikasi menggunakan Docker Compose:
 
     ```bash
     docker-compose up -d
