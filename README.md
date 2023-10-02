@@ -43,7 +43,8 @@ Beberapa konfigurasi tambahan mungkin diperlukan tergantung pada kebutuhan, sepe
 
 #### Otomatisasi
 
-Anda dapat membuat skrip shell untuk menjalankan langkah-langkah instalasi dan maintenance secara otomatis.
+farhan yak
+
 
 #### Cara Pemakaian
 
