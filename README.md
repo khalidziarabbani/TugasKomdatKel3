@@ -12,45 +12,43 @@ Dengan desain yang mengikuti konsep bahasa Material, KitchenOwl menawarkan tampi
 
 # Prasyarat
 [`^ kembali ke atas ^`](#)
+- Linux OS (Ubuntu 20.04 LTS atau Debian 11)
+- Docker
+- Virtual Machine Azure
 
-1. **Docker**: Pastikan Docker sudah terinstal di sistem Anda. Docker digunakan untuk mengelola kontainer aplikasi. Untuk menginstal Docker pada Ubuntu, jalankan perintah berikut:
-
-    ```bash
-    sudo apt update
-    sudo apt i#### Prasyaratnstall docker.io
-    ```
-
-2. **Docker Compose**: Docker Compose adalah alat yang digunakan untuk mendefinisikan dan menjalankan aplikasi multi-kontainer. Pastikan Docker Compose sudah terinstal. Untuk menginstal Docker Compose pada Ubuntu, jalankan perintah berikut:
-
-    ```bash
-    sudo apt install docker-compose
-    ```
-
-3. **Git**: Pastikan Git sudah terinstal untuk mengkloning repositori KitchenOwl. Untuk menginstal Git pada Ubuntu, jalankan perintah berikut:
-
-    ```bash
-    sudo apt install git
-    ```
 # Instalasi
 [`^ kembali ke atas ^`](#)
-
-1. Clone repositori KitchenOwl dari GitHub:
+1. Login ke server menggunakan ssh
+   ```
+   ssh khalid@20.244.51.50
+   ```
+   lalu masukan password virtual machine
+2. Docker
+   
+   Ubuntu: [Panduan Instalasi Docker pada Ubuntu](https://docs.docker.com/engine/install/ubuntu)
+   
+3. Clone repositori KitchenOwl dari GitHub:
    
     ```bash
     git clone https://github.com/TomBursch/kitchenowl.git
     ```
 
-2. Masuk ke direktori KitchenOwl:
+4. Masuk ke direktori KitchenOwl:
 
     ```bash
     cd kitchenowl
     ```
+5. Mengatur port (opsional)
 
-3. Jalankan aplikasi menggunakan Docker Compose:
+   ikuti langkah dokumentasi (docker compose) yang ada pada github KitchenOwl [disini](https://docs.kitchenowl.org/self-hosting/)
+
+6. Jalankan aplikasi menggunakan Docker Compose:
 
     ```bash
     docker-compose up -d
     ```
+
+    Aplikasi web akan dapat diakses melalui http://ip-vm:port
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
