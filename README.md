@@ -67,7 +67,38 @@ Beberapa konfigurasi tambahan mungkin diperlukan tergantung pada kebutuhan, sepe
 [`^ kembali ke atas ^`](#)
 
 - Akses aplikasi melalui web browser dengan URL: http://20.244.51.50/
-- Fungsi-fungsi utama termasuk manajemen daftar belanja, penyimpanan resep, pelacak pengeluaran, dan perencana makanan.
+- Login
+  <h1 align="center"><img src="img/login.png"></h1>
+- Setelah login, anda akan masuk ke menu household dan dapat membuat household baru
+  <h1 align="center"><img src="img/households.png"></h1>
+  <h1 align="center"><img src="img/buathousehold.png"></h1>
+  
+Di dalam household terdapat berbagai fitur:
+1. Anda dapat membuat daftar belanja dengan mencari item belanja yang ingin anda tambahkan pada menu search
+<h1 align="center"><img src="img/daftarbelanja.png"></h1>
+
+2. Pada menu resep anda dapat membuat maupun menambahkan resep
+- Anda dapat menambahkan resep pada button disebelah kanan bawah
+<h1 align="center"><img src="img/Resep.png"></h1>
+- Terdapat dua pilihan untuk menambahkan resep, cara pertama anda dapat mengakses website https://cookpad.com/ dan copy-paste pada menu tambahkan resep dari URL
+<h1 align="center"><img src="img/buatresep.png"></h1>
+    1. Copy-paste link pada website cookpad
+<h1 align="center"><img src="img/cookpad.png"></h1>
+<h1 align="center"><img src="img/tambahresepdariurl.png"></h1>
+    2. Kemudian lengkapi resep yang anda tambahkan dari link cookpad
+<h1 align="center"><img src="img/lengkapiresep.png"></h1>
+<h1 align="center"><img src="img/tambahkanresep.png"></h1>
+    3. Setelah melengkapi anda dapat melihat preview resep yang anda tambahkan
+<h1 align="center"><img src="img/previewresep.png"></h1>
+- Cara kedua anda dapat menambahkan secara manual
+<h1 align="center"><img src="img/tambahresepmanual.png"></h1>
+
+3. Pada menu Meal Planner anda dapat menambahkan jadwal makanan yang telah anda buat pada menu resep
+<h1 align="center"><img src="img/meal planner.png"></h1>
+
+4. Pada menu Balances anda dapat mencatat pemasukan maupun pengeluaran
+<h1 align="center"><img src="img/balance.png"></h1>
+<h1 align="center"><img src="img/pemasukkandanpengeluaran.png"></h1>
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
