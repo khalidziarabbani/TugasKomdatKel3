@@ -2,7 +2,6 @@
 ### Aplikasi Web "KitchenOwl"
 <h1 align="center"><img src="http://20.244.51.50/icons/Icon-192.png"></h1>
 
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
