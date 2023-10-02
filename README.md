@@ -63,12 +63,6 @@ Beberapa konfigurasi tambahan mungkin diperlukan tergantung pada kebutuhan, sepe
 - Untuk membuat backup database tiap pekan, Anda dapat menggunakan alat seperti `docker exec` untuk menjalankan perintah backup pada kontainer Docker yang sesuai.
 - Untuk menghapus direktori sampah, Anda dapat menggunakan cronjob dengan perintah `rm` yang sesuai.
 
-# Otomatisasi
-[`^ kembali ke atas ^`](#)
-
-farhan yak
-
-
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
