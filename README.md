@@ -13,18 +13,11 @@
 
 Dengan desain yang mengikuti konsep bahasa Material, KitchenOwl menawarkan tampilan yang intuitif dan modern, memudahkan penggunaan dan navigasi. Dengan aplikasi ini, Anda dapat mengoptimalkan pengalaman berbelanja, mengorganisir koleksi resep Anda, mengontrol pengeluaran dapur, dan merencanakan makanan dengan lebih efisien.
 
+# Instalasi
+[`^ kembali ke atas ^`](#)
 
-
-
-#### Sekilas Tentang
-
-KitchenOwl adalah sebuah aplikasi lintas-platform yang canggih dan praktis yang dirancang untuk membantu Anda dalam berbagai aspek yang berkaitan dengan dapur dan makanan. Aplikasi ini menyediakan beragam fitur yang berguna, termasuk manajemen daftar belanja, penyimpanan resep, pelacakan pengeluaran, dan perencanaan makanan, semuanya dalam satu platform yang mudah diakses.
-
-Dengan desain yang mengikuti konsep bahasa Material, KitchenOwl menawarkan tampilan yang intuitif dan modern, memudahkan penggunaan dan navigasi. Dengan aplikasi ini, Anda dapat mengoptimalkan pengalaman berbelanja, mengorganisir koleksi resep Anda, mengontrol pengeluaran dapur, dan merencanakan makanan dengan lebih efisien.
-
-#### Instalasi
-
-##### Prasyarat
+# Prasyarat
+[`^ kembali ke atas ^`](#)
 
 1. **Docker**: Pastikan Docker sudah terinstal di sistem Anda. Docker digunakan untuk mengelola kontainer aplikasi. Untuk menginstal Docker pada Ubuntu, jalankan perintah berikut:
 
