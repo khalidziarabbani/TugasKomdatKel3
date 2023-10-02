@@ -105,23 +105,32 @@ Di dalam household terdapat berbagai fitur:
 
 #### Pendapat
 
-KitchenOwl adalah aplikasi yang bermanfaat untuk manajemen dapur dan rencana makan. Antarmuka pengguna yang menggunakan desain bahasa Material memudahkan pengguna untuk berinteraksi dengan aplikasi.
+KitchenOwl adalah aplikasi yang bermanfaat untuk manajemen dapur dan rencana makan. Antarmuka pengguna yang menggunakan desain bahasa Material memudahkan pengguna untuk berinteraksi dengan aplikasi. Memiliki fungsionalitas yang Luas dengan menawarkan beragam fitur yang mencakup manajemen daftar belanja, penyimpanan resep, pelacakan pengeluaran, dan perencanaan makanan. Desain aplikasi website juga sangat memperhatikan pengoptimalan pengalaman berbelanja pengguna, seperti adanya manajemen daftar belanja yang dapat membantu pengguna dalam merencanakan belanjaan mereka dengan lebih efisien.
+Organisasi Resep yang Mudah: Kemampuan untuk menyimpan dan mengatur resep-resep favorit memudahkan pengguna dalam memantau dan mengakses resep yang mereka butuhkan. Ini juga dapat membantu dalam merencanakan makanan sehari-hari.
 
 #### Kelebihan
 
 - Antarmuka pengguna yang ramah pengguna dan mudah digunakan.
 - Fitur lengkap termasuk manajemen daftar belanja, penyimpanan resep, pelacak pengeluaran, dan perencana makanan.
+- Fitur pengorganisasian resep yang mudah.
+- Perencanaan makanan yang efisien.
 
 #### Kekurangan
 
 - Proses instalasi awal mungkin sedikit rumit bagi pengguna yang tidak terbiasa dengan Docker dan terminal.
+- Kerentanan web terhadap cyberattack.
 
 #### Perbandingan dengan Aplikasi Sejenis
 
-Bandingkan dengan aplikasi sejenis seperti AnyList atau Out of Milk, KitchenOwl memiliki antarmuka yang lebih modern dan menyediakan lebih banyak fitur untuk manajemen daftar belanja dan resep.
+Dibandingkan dengan Tandoor, KitchenOwl memiliki antarmuka utama yang lebih modern, dan juga dengan variasi tema yang lebih bervariatif. 
+<h1 align="center"><img src="img/indextandoor.png"></h1> <h1 align="center"><img src="img/indexko"></h1>
+
+Fitur yang terdapat dalam pembuatan household pada KitchenOwl pun lebih beragam dibanding dengan yang ada pada Tandoor. Hal ini memudahkan user dalam mengkategorikan kebutuhannya dengan lebih terstruktur dengan fitur yang ada.
+<h1 align="center"><img src="img/inputtd.png"></h1> <h1 align="center"><img src="img/inputko.png"></h1>
 
 # Referensi
 [`^ kembali ke atas ^`](#)
 
 - GitHub KitchenOwl Repository: [https://github.com/TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl)
 - Docker Compose Documentation: [https://docs.docker.com/compose/](https://docs.docker.com/compose/)
+- Github Tandoor Demo: [https://app.tandoor.dev/](https://app.tandoor.dev/)
