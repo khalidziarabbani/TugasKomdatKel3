@@ -13,9 +13,6 @@
 
 Dengan desain yang mengikuti konsep bahasa Material, KitchenOwl menawarkan tampilan yang intuitif dan modern, memudahkan penggunaan dan navigasi. Dengan aplikasi ini, Anda dapat mengoptimalkan pengalaman berbelanja, mengorganisir koleksi resep Anda, mengontrol pengeluaran dapur, dan merencanakan makanan dengan lebih efisien.
 
-# Instalasi
-[`^ kembali ke atas ^`](#)
-
 # Prasyarat
 [`^ kembali ke atas ^`](#)
 
@@ -37,7 +34,8 @@ Dengan desain yang mengikuti konsep bahasa Material, KitchenOwl menawarkan tampi
     ```bash
     sudo apt install git
     ```
-##### Langkah Instalasi
+# Instalasi
+[`^ kembali ke atas ^`](#)
 
 1. Clone repositori KitchenOwl dari GitHub:
    
@@ -57,26 +55,31 @@ Dengan desain yang mengikuti konsep bahasa Material, KitchenOwl menawarkan tampi
     docker-compose up -d
     ```
 
-#### Konfigurasi
+# Konfigurasi
+[`^ kembali ke atas ^`](#)
 
 Beberapa konfigurasi tambahan mungkin diperlukan tergantung pada kebutuhan, seperti mengatur batas upload file atau memori. Namun, untuk penggunaan dasar, konfigurasi standar Docker Compose sudah mencukupi.
 
-#### Maintenance
+# Maintenance
+[`^ kembali ke atas ^`](#)
 
 - Untuk membuat backup database tiap pekan, Anda dapat menggunakan alat seperti `docker exec` untuk menjalankan perintah backup pada kontainer Docker yang sesuai.
 - Untuk menghapus direktori sampah, Anda dapat menggunakan cronjob dengan perintah `rm` yang sesuai.
 
-#### Otomatisasi
+# Otomatisasi
+[`^ kembali ke atas ^`](#)
 
 farhan yak
 
 
-#### Cara Pemakaian
+# Cara Pemakaian
+[`^ kembali ke atas ^`](#)
 
 - Akses aplikasi melalui web browser dengan URL: http://20.244.51.50/
 - Fungsi-fungsi utama termasuk manajemen daftar belanja, penyimpanan resep, pelacak pengeluaran, dan perencana makanan.
 
-### Pembahasan
+# Pembahasan
+[`^ kembali ke atas ^`](#)
 
 #### Pendapat
 
@@ -95,7 +98,8 @@ KitchenOwl adalah aplikasi yang bermanfaat untuk manajemen dapur dan rencana mak
 
 Bandingkan dengan aplikasi sejenis seperti AnyList atau Out of Milk, KitchenOwl memiliki antarmuka yang lebih modern dan menyediakan lebih banyak fitur untuk manajemen daftar belanja dan resep.
 
-### Referensi
+# Referensi
+[`^ kembali ke atas ^`](#)
 
 - GitHub KitchenOwl Repository: [https://github.com/TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl)
 - Docker Compose Documentation: [https://docs.docker.com/compose/](https://docs.docker.com/compose/)
