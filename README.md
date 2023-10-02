@@ -10,8 +10,24 @@ KitchenOwl adalah aplikasi lintas-platform untuk manajemen daftar belanja, penyi
 
 ##### Prasyarat
 
-Pastikan Anda memiliki VM lokal atau VPS yang menjalankan Linux. Selain itu, pastikan Docker dan git sudah terinstal di sistem.
+1. **Docker**: Pastikan Docker sudah terinstal di sistem Anda. Docker digunakan untuk mengelola kontainer aplikasi. Untuk menginstal Docker pada Ubuntu, jalankan perintah berikut:
 
+    ```bash
+    sudo apt update
+    sudo apt i#### Prasyaratnstall docker.io
+    ```
+
+2. **Docker Compose**: Docker Compose adalah alat yang digunakan untuk mendefinisikan dan menjalankan aplikasi multi-kontainer. Pastikan Docker Compose sudah terinstal. Untuk menginstal Docker Compose pada Ubuntu, jalankan perintah berikut:
+
+    ```bash
+    sudo apt install docker-compose
+    ```
+
+3. **Git**: Pastikan Git sudah terinstal untuk mengkloning repositori KitchenOwl. Untuk menginstal Git pada Ubuntu, jalankan perintah berikut:
+
+    ```bash
+    sudo apt install git
+    ```
 ##### Langkah Instalasi
 
 1. Clone repositori KitchenOwl dari GitHub:
