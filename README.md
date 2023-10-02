@@ -94,9 +94,3 @@ Bandingkan dengan aplikasi sejenis seperti AnyList atau Out of Milk, KitchenOwl 
 
 - GitHub KitchenOwl Repository: [https://github.com/TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl)
 - Docker Compose Documentation: [https://docs.docker.com/compose/](https://docs.docker.com/compose/)
-
-### GitHub Repository
-
-Saya akan membantu Anda dalam membuat repositori GitHub dan mengunggah laporan projek ini. Silakan berikan tautan repositori yang Anda ingin gunakan atau tentukan nama repositori yang ingin Anda gunakan.
-
-link web hosting 20.219.92.39
