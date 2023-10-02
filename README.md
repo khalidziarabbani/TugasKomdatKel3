@@ -123,7 +123,7 @@ Organisasi Resep yang Mudah: Kemampuan untuk menyimpan dan mengatur resep-resep 
 #### Perbandingan dengan Aplikasi Sejenis
 
 Dibandingkan dengan Tandoor, KitchenOwl memiliki antarmuka utama yang lebih modern, dan juga dengan variasi tema yang lebih bervariatif. 
-<h1 align="center"><img src="img/indextandoor.png"></h1> <h1 align="center"><img src="img/indexko"></h1>
+<h1 align="center"><img src="img/indextandoor.png"></h1> <h1 align="center"><img src="img/indexko.png"></h1>
 
 Fitur yang terdapat dalam pembuatan household pada KitchenOwl pun lebih beragam dibanding dengan yang ada pada Tandoor. Hal ini memudahkan user dalam mengkategorikan kebutuhannya dengan lebih terstruktur dengan fitur yang ada.
 <h1 align="center"><img src="img/inputtd.png"></h1> <h1 align="center"><img src="img/inputko.png"></h1>
