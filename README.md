@@ -20,6 +20,8 @@ Dengan desain yang mengikuti konsep bahasa Material, KitchenOwl menawarkan tampi
 [`^ kembali ke atas ^`](#)
 1. Login ke server menggunakan ssh
 
+   buka shell
+    
    contoh:
    ```
    ssh khalid@20.244.51.50
