@@ -49,7 +49,7 @@ Dengan desain yang mengikuti konsep bahasa Material, KitchenOwl menawarkan tampi
 7. Jalankan aplikasi menggunakan Docker Compose:
 
     ```bash
-    docker-compose up -d
+    nano docker compose up -d
     ```
 
     Aplikasi web akan dapat diakses melalui http://ip-vm:port
